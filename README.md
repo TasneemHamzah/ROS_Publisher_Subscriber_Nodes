@@ -47,6 +47,9 @@ downloade and extracted into the src file in your work space.
 - Now, go to your work space directory in terminal and type this command to include all the libraries you have imported
    $ catkin_make
 
+- Then, open a new terminal and run
+
+  $ roscore
 
 
 I used Jupyter lab and tenseflow to excecute and run the publisher and subscriper nodes files.
