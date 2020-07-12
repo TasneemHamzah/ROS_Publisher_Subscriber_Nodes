@@ -15,6 +15,7 @@ rospy
  
 std_msgs
  https://github.com/ros/std_msgs.git 
+ 
 downloade and extracted into the src file in your work space.
 
 - After that, once you've created a package.xml, you should set the license (<license> tags) 
